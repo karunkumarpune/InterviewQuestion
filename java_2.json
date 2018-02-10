@@ -1,0 +1,27 @@
+{
+  "What is difference between JDK,JRE and JVM?": [
+    {
+      "top_name": "JVM is an acronym for Java Virtual Machine, it is an abstract machine which provides the runtime environment in which java bytecode can be executed. It is a specification.  JVMs are available for many hardware and software platforms (so JVM is platform dependent)."
+    }
+  ],
+  "What do you mean by platform independence of Java?": [
+    {
+      "top_name": "Platform independence means that you can run the same Java Program in any Operating System. For example, you can write java program in Windows and run it in Mac OS."
+    }
+  ],
+  "What is JIT compiler?": [
+    {
+      "top_name": "Just-In-Time(JIT) compiler:It is used to improve the performance. JIT compiles parts of the byte code that have similar functionality at the same time, and hence reduces the amount of time needed for compilation.Here the term “compiler” refers to a translator from the instruction set of a Java virtual machine (JVM) to the instruction set of a specific CPU."
+    }
+  ],
+  "What is classloader?": [
+    {
+      "top_name": "The classloader is a subsystem of JVM that is used to load classes and interfaces.There are many types of classloaders e.g. Bootstrap classloader, Extension classloader, System classloader, Plugin classloader etc."
+    }
+  ],
+  "Collection": [
+    {
+      "top_name": "HashMap class"
+    }
+  ]
+}
