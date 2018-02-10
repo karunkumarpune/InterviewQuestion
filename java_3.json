@@ -1,0 +1,27 @@
+{
+  "What are the two ways to iterate the elements of a collection ?": [
+    {
+      "top_name": "Java ArrayList class uses a dynamic array for storing the elements. It inherits AbstractList class and implements List interface."
+    }
+  ],
+  "Java LinkedList class": [
+    {
+      "top_name": "Java LinkedList class uses doubly linked list to store the elements. It provides a linked-list data structure. It inherits the AbstractList class and implements List and Deque interfaces.  The important points about Java LinkedList are:  Java LinkedList class can contain duplicate elements. Java LinkedList class maintains insertion order. Java LinkedList class is non synchronized. In Java LinkedList class, manipulation is fast because no shifting needs to be occurred. Java LinkedList class can be used as list, stack or queue."
+    }
+  ],
+  "What is JIT compiler?": [
+    {
+      "top_name": "Just-In-Time(JIT) compiler:It is used to improve the performance. JIT compiles parts of the byte code that have similar functionality at the same time, and hence reduces the amount of time needed for compilation.Here the term “compiler” refers to a translator from the instruction set of a Java virtual machine (JVM) to the instruction set of a specific CPU."
+    }
+  ],
+  "What is classloader?": [
+    {
+      "top_name": "The classloader is a subsystem of JVM that is used to load classes and interfaces.There are many types of classloaders e.g. Bootstrap classloader, Extension classloader, System classloader, Plugin classloader etc."
+    }
+  ],
+  "Collection": [
+    {
+      "top_name": "HashMap class"
+    }
+  ]
+}
