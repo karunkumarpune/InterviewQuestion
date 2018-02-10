@@ -1,92 +1,27 @@
 {
-"Basics of Java": [
-        {
-          "top_id": "t1",
-          "top_name": "Java - What, Where and Why?"
-        },
-        {
-          "top_id": "t2",
-          "top_name": "History and Features of Java "
-        },
-         {
-          "top_id": "t3",
-          "top_name": "Internals of Java Program"
-        },
-        {
-          "top_id": "t4",
-          "top_name": "Difference between JDK,JRE and JVM "
-        }
-      ],
-      "OOPS Conecpts": [
-        {
-          "top_id": "t1",
-          "top_name": "Advantage of OOPs"
-        },
-        {
-          "top_id": "t2",
-          "top_name": "Object and Class"
-        },
-         {
-          "top_id": "t3",
-          "top_name": "Method Overloading"
-        },
-        {
-          "top_id": "t4",
-          "top_name": "static variable, method and block"
-        }
-      ],
-      "String Handling": [
-        {
-          "top_id": "t1",
-          "top_name": "String : What and Why?"
-        },
-        {
-          "top_id": "t2",
-          "top_name": "Immutable String "
-        },
-         {
-          "top_id": "t3",
-          "top_name": "Creating Immutable class"
-        },
-        {
-          "top_id": "t4",
-          "top_name": "StringTokenizer class"
-        }
-      ],
-      "Exception Handling": [
-        {
-          "top_id": "t1",
-          "top_name": "Exception Handling : What and Why?"
-        },
-        {
-          "top_id": "t2",
-          "top_name": "try and catch block "
-        },
-         {
-          "top_id": "t3",
-          "top_name": "Exception Handling with Method "
-        },
-        {
-          "top_id": "t4",
-          "top_name": "Custom Exception "
-        }
-      ],
-      "Collection": [
-        {
-          "top_id": "t1",
-          "top_name": "Collection Framework"
-        },
-        {
-          "top_id": "t2",
-          "top_name": "ListIterator interface"
-        },
-         {
-          "top_id": "t3",
-          "top_name": "Comparable and Comparator "
-        },
-        {
-          "top_id": "t4",
-          "top_name": "HashMap class"
-        }
+  "Why cannot you run standard Java bytecode on Android?": [
+    {
+      "top_name": "Android uses Dalvik Virtual Machine (DVM) which requires a special bytecode. First of all, we have to convert Java class files into Dalvik Executable files using an Android tool called “dx”. In normal circumstances, developers will not be using this tool directly and build tools will care for the generation of DVM compatible files."
+    }
+  ],
+  "What do you mean by platform independence of Java?": [
+    {
+      "top_name": "Platform independence means that you can run the same Java Program in any Operating System. For example, you can write java program in Windows and run it in Mac OS."
+    }
+  ],
+  "What is Java virtual machine (JVM)?": [
+    {
+      "top_name": "A Java virtual machine (JVM), an implementation of the Java Virtual Machine Specification, interprets compiled Java binary code (called bytecode) for a computer's processor so that it can perform a Java program's instructions. Java was designed to allow application programs to be built that could be run on any platform without having to be rewritten or recompiled by the programmer for each separate platform. A Java virtual machine makes this possible because it is aware of the specific instruction lengths and other particularities of the platform."
+    }
+  ],
+  "Exception Handling": [
+    {
+      "top_name": "Custom Exception "
+    }
+  ],
+  "Collection": [
+    {
+      "top_name": "HashMap class"
+    }
   ]
 }
