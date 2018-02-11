@@ -1,93 +1,45 @@
 {
-  "What is Java?": [
-    {
-      "top_name": "Java is an object-oriented programming language developed by Sun Microsystems and released in 1995."
-    },
-    {
-      "top_name": "Java was originally developed by James Gosling at Sun Microsystems (which has since merged into Oracle Corporation)."
-    },
-    {
-      "top_name": "Java Feature : Object-Oriented ,Platform independent ,Secure ,Portable ,Robust ,Multi-threaded ,Interpreted ,High Performance,Distributed ,Dynamic ."
-    },
-    {
-      "top_name": "Applications of Java :  According to Sun, 3 billion devices run Java. ,Desktop Applications such as acrobat reader, media player, antivirus etc. Web Applications , Mobile Operating ,System like Android,Embedded System,Robotics,Banking applications ,Games ."
-    }
-  ],
-  "Need Java Code execute : JDK, JRE and JVM": [
-    {
-      "top_name": "Java Development Kit (JDK)"
-    },
-    {
-      "top_name": "Java Developer Kit contains tools such as compilers needed to develop the Java programs. A Compiler converts Java code into bytecode."
-    },
-    {
-      "top_name": "Java Virtual machine (JVM)"
-    },
-    {
-      "top_name": "It is a virtual machine that runs the Java bytecodes. The JVM doesn't understand Java source code (the language in which we write Java programs), so first, the source code is compiled into bytecode which can be understood by the JVM. The JVM provides a platform-independent way of executing code, thus making Java platform independent."
-    },
-    {
-      "top_name": "Java Runtime Environment (JRE)"
-    },
-    {
-      "top_name": "Java Runtime Environment contains JVM, class libraries, and other supporting files. Actually, JVM runs the program and it uses the class libraries and other supporting files provided in JRE. If you want to run any Java program, you need to have JRE installed in the system"
-    },
-    {
-      "top_name": "Just-In-Time compiler (JIT)"
-    },
-    {
-      "top_name": "A just-in-time (JIT) compiler is a program that turns Java bytecode (a program that contains instructions that must be interpreted) into instructions that can be sent directly to the processor. "
-    },
-    
-  ],
-  "What is dynamic class loading?": [
-    {
-      "top_name": "Class loader is a part of the Java Runtime Environment that dynamically loads Java classes into the Java Virtual Machine."
-    }
-  ],
-  "Exception Handling": [
-    {
-      "top_name": ""
-    }
-  ],
-  "Collection": [
-    {
-      "top_name": ""
-    }
-  ],
-  "Collection": [
-    {
-      "top_name": ""
-    }
-  ],
-  "Exception Handling": [
-    {
-      "top_name": ""
-    }
-  ],
-  "Collection": [
-    {
-      "top_name": ""
-    }
-  ],
-  "Collection": [
-    {
-      "top_name": ""
-    }
-  ],
-  "Exception Handling": [
-    {
-      "top_name": ""
-    }
-  ],
-  "Collection": [
-    {
-      "top_name": ""
-    }
-  ],
-  "Collection": [
-    {
-      "top_name": ""
-    }
-  ]
+	"What is Java?": [{
+			"top_name": "Java is an object-oriented programming language developed by Sun Microsystems and released in 1995."
+		},
+		{
+			"top_name": "Java was originally developed by James Gosling at Sun Microsystems (which has since merged into Oracle Corporation)."
+		},
+		{
+			"top_name": "Java Feature : Object-Oriented ,Platform independent ,Secure ,Portable ,Robust ,Multi-threaded ,Interpreted ,High Performance,Distributed ,Dynamic ."
+		},
+		{
+			"top_name": "Applications of Java :  According to Sun, 3 billion devices run Java. ,Desktop Applications such as acrobat reader, media player, antivirus etc. Web Applications , Mobile Operating ,System like Android,Embedded System,Robotics,Banking applications ,Games ."
+		}
+	],
+	"Need Java Code execute : JDK, JRE and JVM": [{
+			"top_name": "Java Development Kit (JDK)"
+		},
+		{
+			"top_name": "Java Developer Kit contains tools such as compilers needed to develop the Java programs. A Compiler converts Java code into bytecode."
+		},
+		{
+			"top_name": "Java Virtual machine (JVM)"
+		},
+		{
+			"top_name": "It is a virtual machine that runs the Java bytecodes. The JVM doesn't understand Java source code (the language in which we write Java programs), so first, the source code is compiled into bytecode which can be understood by the JVM. The JVM provides a platform-independent way of executing code, thus making Java platform independent."
+		},
+		{
+			"top_name": "Java Runtime Environment (JRE)"
+		},
+		{
+			"top_name": "Java Runtime Environment contains JVM, class libraries, and other supporting files. Actually, JVM runs the program and it uses the class libraries and other supporting files provided in JRE. If you want to run any Java program, you need to have JRE installed in the system"
+		},
+		{
+			"top_name": "Just-In-Time compiler (JIT)"
+		},
+		{
+			"top_name": "A just-in-time (JIT) compiler is a program that turns Java bytecode (a program that contains instructions that must be interpreted) into instructions that can be sent directly to the processor. "
+		}
+
+	],
+	"What is dynamic class loading?": [{
+		"top_name": "Class loader is a part of the Java Runtime Environment that dynamically loads Java classes into the Java Virtual Machine."
+	}]
+
 }
