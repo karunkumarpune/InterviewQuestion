@@ -1,0 +1,7 @@
+{
+  "What is Kotlin’s Null Safety ?": [
+    {
+      "top_name": "Null Safety in Kotlin is to eliminate the risk of occurrence of NullPointerException in real time. Kotlin can differentiate between nullable references and non-nullable references. If a variable has to be allowed to store a null value, that has to be declared with a null (?) operator."
+    }
+  ]
+}
