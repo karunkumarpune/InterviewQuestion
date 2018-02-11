@@ -1,0 +1,58 @@
+{
+  "String Programming technical question?": [
+    {
+      "top_name": "How do you remove all white spaces from a string in java?"
+    },
+    {
+      "top_name": "How do you find duplicate characters in a string and count?"
+    },
+    {
+      "top_name": "Write a Java program to count the occurrences of a character in string."
+    },
+    {
+      "top_name": "Write a java program to reverse a string?"
+    },
+    {
+      "top_name": "Write a Java program to reverse a String without using reverse() function."
+    },
+    {
+      "top_name": "Write a java program to check whether two strings are anagram or not?"
+    },
+    {
+      "top_name": "How do you convert string to integer and integer to string in java?"
+    },
+    {
+      "top_name": "Write a code to prove that strings are immutable in java?"
+    },
+    {
+      "top_name": "Write a java program to count the number of words in a string?"
+    },
+    {
+      "top_name": "Write a java program to reverse each word of a given string?"
+    },
+    {
+      "top_name": ">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>"
+    },
+    {
+      "top_name": "Write a java program to find the duplicate words and their number of occurrences in a string."
+    },
+    {
+      "top_name": "Write a java program to Convert String to Array"
+    },
+    {
+      "top_name": "Write a Java program to check String is Palindrome?"
+    },
+    {
+      "top_name": "Write a Java program to find the length of a String without using inbuilt functions."
+    },
+    {
+      "top_name": "Write a Java program to check  if given strings are Isomorphic."
+    },
+    {
+      "top_name": "Write a Java program to find first non repeated character in a string."
+    },
+    {
+      "top_name": "Write a java program to find the uppercase letters to lowercase letters."
+    }
+  ]
+}
