@@ -1,0 +1,27 @@
+{
+	"What is Android Google Map?": [{
+		"top_name": "Google map displays our current location, navigate location direction, search location etc. We can also customize Google map according to our requirement."
+	}],
+	"Types of Google Maps": [{
+			"top_name": "There are four different types of Google maps, as well as an optional to no map at all."
+		},
+		{
+			"top_name": "Normal: This type of map displays typical road map, natural features like river and some features build by humans."
+		},
+		{
+			"top_name": "Hybrid: This type of map displays satellite photograph data with typical road maps. It also displays road and feature labels."
+		},
+		{
+			"top_name": "Satellite: Satellite type displays satellite photograph data, but doesn't display road and feature labels."
+		},
+		{
+			"top_name": "Terrain: This type displays photographic data. This includes colors, contour lines and labels and perspective shading."
+		},
+		{
+			"top_name": "None: This type displays an empty grid with no tiles loaded."
+		},
+		{
+			"top_name": "Syntax of Map : googleMap.setMapType(GoogleMap.MAP_TYPE_SATELLITE); "
+		}
+	]
+}
