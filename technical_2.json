@@ -1,0 +1,25 @@
+{
+  "These are some of the android Service questions": [
+    {
+      "top_name": "What is the difference between startservice and bindservice?"
+    },
+    {
+      "top_name": "How to create a service with multiple threads in it?"
+    },
+    {
+      "top_name": "What is the difference between service and a thread?"
+    },
+    {
+      "top_name": "What is the difference between thread and handler thread, in android?"
+    },
+    {
+      "top_name": "How binder is different from serialization?"
+    },
+    {
+      "top_name": "How to update UI from other threads? Note : Other thread means other than main thread."
+    },
+    {
+      "top_name": "What is ANR (application not responding)? What is the reason for this problem and what is the solution for that problem?"
+    }
+  ]
+}
