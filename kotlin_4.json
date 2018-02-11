@@ -1,0 +1,19 @@
+{
+  "Object-Oriented Programming in Kotlin": [
+    {
+      "top_name": "Everything is an object: An object is nothing but a block of memory allocated and configured according to a design/definition. From the problem space you have to solve, you take all the logical entities and translate them into objects in your program."
+    },
+    {
+      "top_name": "Objects communicate by sending and receiving messages (in terms of objects): Your program will be a set of objects performing different actions as a result of calling methods that each one expose."
+    },
+    {
+      "top_name": "Objects have their own memory (in terms of objects): This should be read as, You can create an object by composing other objects."
+    },
+    {
+      "top_name": "Every object is an instance of a class (which must be an object): Think of a class as a blueprint specifying what the type can do."
+    },
+    {
+      "top_name": "The class holds the shared behavior for its instances (in the form of objects in a program list): This means all the objects of a particular type can receive the same messages; in other words, they expose the same methods."
+    }
+  ]
+}
