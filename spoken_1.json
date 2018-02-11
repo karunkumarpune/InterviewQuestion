@@ -1,0 +1,40 @@
+{
+  "Some HR interview question ?": [
+    {
+      "top_name": "Tell me about yourself."
+    },
+    {
+      "top_name": "Tell me about family."
+    },
+    {
+      "top_name": "Why did you resign from your previous job?"
+    },
+    {
+      "top_name": "Why should I hire you?"
+    },
+    {
+      "top_name": "Why do you want to work at our company?"
+    },
+    {
+      "top_name": "What are your goals?"
+    },
+    {
+      "top_name": "Tell me something about our company."
+    },
+    {
+      "top_name": "How much salary do you expect?"
+    },
+    {
+      "top_name": "What are your strengths and weaknesses?"
+    },
+    {
+      "top_name": "What is the difference between confidence and over confidence?"
+    },
+    {
+      "top_name": "What is the difference between hard work and smart work?"
+    },
+    {
+      "top_name": "What are your career options right now?"
+    }
+  ]
+}
