@@ -1,0 +1,33 @@
+{
+  "What is Activity?": [
+    {
+      "top_name": "An activity is the single screen in android. It is like window or frame of Java.."
+    }
+  ],
+  "Activity Lifecycle": [
+    {
+      "top_name": "The 7 lifecycle method of Activity"
+    },
+    {
+      "top_name": "onCreate : called when activity is first created."
+    },
+    {
+      "top_name": "onStart : called when activity is becoming visible to the user."
+    },
+    {
+      "top_name": "onResume : called when activity will start interacting with the user."
+    },
+    {
+      "top_name": "onPause : called when activity is not visible to the user."
+    },
+    {
+      "top_name": "onStop : called when activity is no longer visible to the user."
+    },
+    {
+      "top_name": "onRestart : called after your activity is stopped, prior to start."
+    },
+    {
+      "top_name": "onDestroy: called before the activity is destroyed."
+    }
+  ]
+}
