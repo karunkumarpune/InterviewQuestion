@@ -1,0 +1,13 @@
+{
+  "Compare Strings in Kotlin": [
+    {
+      "top_name": "To Compare Strings in Kotlin, following are some of the possible ways."
+    },
+    {
+      "top_name": "Using “==” operator"
+    },
+    {
+      "top_name": "Using compareTo() extension function"
+    }
+  ]
+}
