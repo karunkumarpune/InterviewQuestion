@@ -1,0 +1,44 @@
+{
+  "Why did you switch to Kotlin from Java ?": [
+    {
+      "top_name": "Kotlin seems to be simpler and cleaner than Java. It removes a lot of redundancies in code from Java. Kotlin also adds some needed features that Java doesn’t yet support, and is making code more idiomatic. Also Kotlin has been added to Android Studio’s list of supported languages recently. So, there is much to expect from Kotlin in easing out the development efforts and good support in future."
+    }
+  ],
+  "What are the features you think are there in Kotlin but not in Java ?": [
+    {
+      "top_name": "Extension Functions"
+    },
+    {
+      "top_name": "Null Safety"
+    },
+    {
+      "top_name": "Smart casts"
+    },
+    {
+      "top_name": "Range expressions"
+    },
+    {
+      "top_name": "Operator Overloading"
+    },
+    {
+      "top_name": "Data classes"
+    },
+    {
+      "top_name": "Companion Objects"
+    },
+    {
+      "top_name": "Coroutines etc."
+    }
+  ],
+  "What kinds of programming does Kotlin support ?": [
+    {
+      "top_name": "Kotlin supports two types of programming. They are"
+    },
+    {
+      "top_name": "Procedural Programming"
+    },
+    {
+      "top_name": "Object Oriented Programming"
+    }
+  ]
+}
